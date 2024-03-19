@@ -3,8 +3,10 @@ version: '${version}'
 main: org.debuff.Discord
 api-version: '1.19'
 permissions:
-  debuff.discord
-  debuff.discord.reload
+  debuff.discord:
+    description: Allows your players to use /discord
+  debuff.discord.reload:
+    description: Allows players to reload the config
 commands:
   discord:
     description: Send your discord link to your Players!
