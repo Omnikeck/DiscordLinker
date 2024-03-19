@@ -1,0 +1,11 @@
+name: discord
+version: '1'
+main: org.debuff.Discord
+api-version: '1.19'
+permissions:
+  debuff.discord
+  debuff.discord.reload
+commands:
+  discord:
+    description: Send your discord link to your Players!
+    usage: /discord

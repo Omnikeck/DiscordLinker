@@ -1,0 +1,3 @@
+discord:
+  invite_link: "https://discord.gg/debuff"
+  message_format: "<#0084ff>Join the DebuffNetwork Discord Community\n<#0084ff>\u00bb <gray>%invite_link%"
