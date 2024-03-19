@@ -18,9 +18,11 @@ The Discord Bukkit Plugin is a simple and lightweight plugin for Minecraft serve
 
 **Configuration Example:**
 
+```
   discord:
     invite_link: "https://discord.gg/debuff"
     message_format: "<#0084ff>Join the DebuffNetwork Discord Community\n<#0084ff>\u00bb <gray>%invite_link%"
+```
 
 **Contributing:**
 
